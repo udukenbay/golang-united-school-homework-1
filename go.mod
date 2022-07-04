@@ -1,4 +1,3 @@
-module github.com/PuerkitoBio/goquery
 module github.com/kyokomi/emoji
 
 require (
