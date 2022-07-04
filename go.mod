@@ -1,8 +1,7 @@
-module github.com/kyokomi/emoji/v2
+module github.com/kyokomi/emoji
 
 require (
-	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
-    github.com/kyokomi/emoji/v2
+	github.com/kyokomi/emoji
 )
 
 go 1.13
