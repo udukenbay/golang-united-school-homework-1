@@ -1,5 +1,8 @@
-module github.com/kyokomi/emoji/cmd
+module github.com/PuerkitoBio/goquery
 
-go 1.12
+require (
+	github.com/andybalholm/cascadia v1.3.1
+	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
+)
 
-require github.com/PuerkitoBio/goquery v1.5.1
+go 1.13
