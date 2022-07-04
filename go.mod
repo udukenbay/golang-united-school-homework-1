@@ -3,7 +3,7 @@ module github.com/PuerkitoBio/goquery
 require (
 	github.com/andybalholm/cascadia v1.3.1
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
-    github.com/kyokomi/emoji
+    github.com/kyokomi/emoji/v2
 )
 
 go 1.13
