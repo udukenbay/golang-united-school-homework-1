@@ -1,4 +1,5 @@
 module github.com/PuerkitoBio/goquery
+module github.com/kyokomi/emoji
 
 require (
 	github.com/andybalholm/cascadia v1.3.1
